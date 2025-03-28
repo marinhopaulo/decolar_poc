@@ -27,7 +27,7 @@
         <destination_city>Recife</destination_city>
         <destination_airport>Aeroporto Internacional do Recife (REC)</destination_airport>
         <carrier_name>Azul Linhas Aéreas</carrier_name>
-        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/REC/2025-04-17/2025-05-21/1/0/0?from=SB&di=1&reSearch=true#showModal</url>
+        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/REC/2025-04-17/2025-05-21/1/0/0?from=SB&di=1&reSearch=true</url>
         <image_url>https://media.staticontent.com/media/pictures/feb0798d-f545-4997-ad51-12b8028af643/300x200</image_url>
         <in_stock>true</in_stock>
         <price>897</price>
@@ -60,7 +60,7 @@
         <name>Hotel Copacabana Palace</name>
         <destination_city>Rio de Janeiro</destination_city>
         <url>https://www.decolar.com/hoteis/h-231501/copacabana-palace-rio+de+janeiro</url>
-        <image_url>https://www.decolar.com/images/copacabana-palace.jpg</image_url>
+        <image_url>https://media.staticontent.com/media/pictures/a1b2c3d4-5678-9101-1121-314151617181/300x200</image_url>
         <in_stock>true</in_stock>
         <price>1500</price>
         <original_price>1500</original_price>
