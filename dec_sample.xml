@@ -10,7 +10,7 @@
         <destination_city>Rio de Janeiro</destination_city>
         <destination_airport>Aeroporto Santos Dumont (SDU)</destination_airport>
         <carrier_name>Gol Linhas Aéreas</carrier_name>
-        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/RIO/2025-04-17/2025-05-21/1/0/0?from=SB&di=1&reSearch=true</url>
+        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/RIO/2025-04-17/2025-05-21/1/0/0?from=SB&amp;di=1&amp;reSearch=true</url>
         <image_url>https://media.staticontent.com/media/pictures/748a1d4a-8dc3-4e82-a691-ac41c79576fe/300x200</image_url>
         <in_stock>true</in_stock>
         <price>314</price>
@@ -27,7 +27,7 @@
         <destination_city>Recife</destination_city>
         <destination_airport>Aeroporto Internacional do Recife (REC)</destination_airport>
         <carrier_name>Azul Linhas Aéreas</carrier_name>
-        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/REC/2025-04-17/2025-05-21/1/0/0?from=SB&di=1&reSearch=true</url>
+        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/REC/2025-04-17/2025-05-21/1/0/0?from=SB&amp;di=1&amp;reSearch=true</url>
         <image_url>https://media.staticontent.com/media/pictures/feb0798d-f545-4997-ad51-12b8028af643/300x200</image_url>
         <in_stock>true</in_stock>
         <price>897</price>
@@ -44,7 +44,7 @@
         <destination_city>Salvador</destination_city>
         <destination_airport>Aeroporto Internacional de Salvador (SSA)</destination_airport>
         <carrier_name>Gol Linhas Aéreas</carrier_name>
-        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/SSA/2025-04-17/2025-05-21/1/0/0?from=SB&di=1&reSearch=true</url>
+        <url>https://www.decolar.com/shop/flights/results/roundtrip/SAO/SSA/2025-04-17/2025-05-21/1/0/0?from=SB&amp;di=1&amp;reSearch=true</url>
         <image_url>https://media.staticontent.com/media/pictures/408861fa-25f7-4b7b-a395-a5311e7c51f2/300x200</image_url>
         <in_stock>true</in_stock>
         <price>739</price>
