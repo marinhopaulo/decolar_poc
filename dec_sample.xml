@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+nd<?xml version="1.0" encoding="UTF-8"?>
 <products>
     <!-- Flights -->
     <product>
@@ -18,7 +18,7 @@
         <currency>BRL</currency>
         <discount>0</discount>
         <start_date>2025-05-01</start_date>
-        <end_date>2025-05-30</start_date>
+        <end_date>2025-05-30</end_date>
     </product>
     <product>
         <item_id>SAO-REC</item_id>
