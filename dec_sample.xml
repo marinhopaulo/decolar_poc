@@ -17,6 +17,8 @@
         <original_price>314</original_price>
         <currency>BRL</currency>
         <discount>0</discount>
+        <start_date>2025-05-01</start_date>
+        <end_date>2025-05-30</start_date>
     </product>
     <product>
         <item_id>SAO-REC</item_id>
